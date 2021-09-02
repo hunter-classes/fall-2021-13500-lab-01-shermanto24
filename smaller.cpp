@@ -16,6 +16,6 @@ int main()
 	else
 		smaller = num2;
 	
-	std::cout << "The smaller of the two is " << smaller << std::endl;
+	std::cout << "\nThe smaller of the two is " << smaller << std::endl;
 	return 0;
 }
